@@ -97,7 +97,7 @@ export default function MassageGrid() {
           viewport={{ once: true }}
           transition={{ duration: 0.5 }}
         >
-          Descubra Nossos Massagens
+          Serviços
         </motion.h2>
 
         {/* Grade de serviços (5 colunas em telas muito grandes) */}
